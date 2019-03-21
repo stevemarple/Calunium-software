@@ -1,0 +1,2 @@
+name=Calunium AVR boards
+version=1.0.0
