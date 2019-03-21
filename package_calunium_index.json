@@ -1,0 +1,35 @@
+{
+    "packages": [
+        {
+            "name": "Calunium",
+            "maintainer": "Steve Marple",
+            "websiteURL": "http://stevemarple.github.io/Calunium",
+            "email": "calunium@stevemarple.co.uk",
+            "help": {
+                "online": "https://github.com/stevemarple/Calunium/issues"
+            },
+            "platforms": [
+                {
+                    "name": "Calunium",
+                    "architecture": "avr",
+                    "version": "1.0.0",
+                    "category": "Contributed",
+                    "help": {
+                        "online": "https://github.com/stevemarple/Calunium/issues"
+                    },
+                    "url": "https://github.com/stevemarple/Calunium-software/archive/1.0.0.zip",
+                    "archiveFileName": "Calunium-software-1.0.0.zip",
+                    "checksum": "SHA-256:87580a4eed44308a2515ce309ebfe002ee0a4012ef5b5e9a798f53fedbf11e54",
+                    "size": "158232",
+                    "boards": [
+                        {"name": "Calunium ATmega1284P with Xboot"},
+                        {"name": "Calunium ATmega1284 (non-P) with Xboot"},
+                        {"name": "Calunium ATmega644P with Xboot"}
+
+                    ],
+                    "toolsDependencies": [ ]
+                }
+            ]
+        }
+    ]
+}
